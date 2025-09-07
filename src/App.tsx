@@ -287,7 +287,7 @@ function App() {
               <div className="relative">
                 <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-br from-pink-200 via-purple-200 to-rose-200 shadow-2xl overflow-hidden">
                   <img
-                    src="src/passport.JPG"
+                    src="/passport.JPG"
                     alt="Rosedebrah Ojuok"
                     className="w-full h-full object-cover"
                   />
